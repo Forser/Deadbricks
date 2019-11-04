@@ -3,5 +3,5 @@
 
 Only one level.
 
-Music by HorrorPen on OpenGameArt.org
+Music by HorrorPen on OpenGameArt.org<br/>
 Sprites by Buch and Background by Marcus on OpenGameArt.org
